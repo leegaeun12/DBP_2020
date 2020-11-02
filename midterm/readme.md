@@ -11,8 +11,9 @@
 ***
 
 ## 2. 사용데이터
-#### mysql의 샘플 데이터베이스인 world database를 사용했다.
-![ERD of WORKD DB](http://4.bp.blogspot.com/-BUJLojNo4ik/UNIqWTKGwHI/AAAAAAAAAAY/DA4YD6EGJh4/s1600/world_erd.png)
+#### mysql의 샘플 데이터베이스인 world database를 사용하였다.
+![ERD of WORLD DB](http://4.bp.blogspot.com/-BUJLojNo4ik/UNIqWTKGwHI/AAAAAAAAAAY/DA4YD6EGJh4/s1600/world_erd.png)
+WORLD 데이터베이스에는 city, country, countrylanguage 3개의 테이블이 있으며 ERD는 위의 그림과 같다.
 
 ***
 
