@@ -1,10 +1,11 @@
 # 1.새로 배운 내용
 - 트랜잭션
-'''
- DB의 상태를 변환시키는 하나의 논리적 기능을 수행하기 위한 작업의 단위
+
+''' 
+DB의 상태를 변환시키는 하나의 논리적 기능을 수행하기 위한 작업의 단위
 commit /  rollback
 성질: 원자성, 일관성, 독립성, 지속성
-'''
+''' 
 - JDBC
 * 자바에서 db로 쿼리문을 전송할 때 사용할 수 있는 인터페이스
 * Statement, PreparedStatement, CallableStatement
