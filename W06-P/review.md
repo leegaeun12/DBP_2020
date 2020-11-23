@@ -1,4 +1,5 @@
 # 0. 동작 과정 영상 링크
+<https://youtu.be/T8soaf77VaE>
 
 # 1. 새로 배운 내용
 * SSH (Secure SHell) :
