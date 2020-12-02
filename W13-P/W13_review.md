@@ -2,13 +2,13 @@
 ## JSP
   : HTML 내부에 java 코드를 입력하여, 웹 서버에서 동적으로 웹브라우저를 관리하는 언어
 
-  - 템플릿 데이터 : 클라이언트로 출력되는 콘텐츠 ( HTML, JavaScript, CSS, JSON, XML, 일반 텍스트 등)
-  - JSP 전용 태그 : 서블릿 생성 시 특정 자바 코드로 바뀌는 태그
+- 템플릿 데이터 : 클라이언트로 출력되는 콘텐츠 ( HTML, JavaScript, CSS, JSON, XML, 일반 텍스트 등)
+- JSP 전용 태그 : 서블릿 생성 시 특정 자바 코드로 바뀌는 태그
   - Directives (지시자) <%@ %>
-      -지시자 속성과 값에 따라 자바 코드 생성
-      -page : jsp 페이지 속성 정의
-      -taglib : 태그 라이브러리 선언
-      -include
+      - 지시자 속성과 값에 따라 자바 코드 생성
+      - page : jsp 페이지 속성 정의
+      - taglib : 태그 라이브러리 선언
+      - include
   - Scriptlet Elements (스크립트릿) <% %>
       - <% 자바 코드 %>
   - Declarations (선언문) <%! %>
